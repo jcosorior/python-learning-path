@@ -1,2 +1,2 @@
 # python-learning-path
-This repository shows how Iḿ learning python
+This repository shows my process learning python
