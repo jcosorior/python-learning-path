@@ -1,5 +1,5 @@
 # logical operators = evaluate multiple conditions (or, and, not)
-#                   or at least one ondition must be True
+#                   or at least one condition must be True
 #                   and = both conditions must be true
 #                   not = inverts the condition (not False, not True)
 
