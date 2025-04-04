@@ -1,5 +1,5 @@
 num = int(input("Guess the number: "))
-while num != 6:
+while not num == 6:
     num= int(input("Keep trying: "))
     
     
