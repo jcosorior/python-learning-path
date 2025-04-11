@@ -1,6 +1,9 @@
 print("This program add every number you want, to finish type 0")
 total = 0
 while True:
-    num = int(input(""))
-    num1 = num + num1 
-print(num1)
+    num = int(input("Enter a number, 0 to stop: "))
+    if num == 0:
+        break
+total += num
+    
+print(f"The total is {total}")
